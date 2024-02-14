@@ -1,0 +1,3 @@
+/Users/urzavoge/Desktop/work/unused-repos/practice-interpreter/build/CMakeFiles/interpreter.dir
+/Users/urzavoge/Desktop/work/unused-repos/practice-interpreter/build/CMakeFiles/edit_cache.dir
+/Users/urzavoge/Desktop/work/unused-repos/practice-interpreter/build/CMakeFiles/rebuild_cache.dir

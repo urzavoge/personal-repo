@@ -1,0 +1,14 @@
+var i : integer;
+var message : str;
+var flag : bool;
+begin
+
+    flag := true;
+    message := "PLEASE GIVE ME OTL10";
+
+    for i := 0 to 10 do
+        if 9 < 10 then
+            print(message);
+
+
+end.

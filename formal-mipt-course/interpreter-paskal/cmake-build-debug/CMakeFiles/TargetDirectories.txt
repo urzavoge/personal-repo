@@ -1,0 +1,3 @@
+/Users/urzavoge/CLionProjects/testYacc/cmake-build-debug/CMakeFiles/interpreter.dir
+/Users/urzavoge/CLionProjects/testYacc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/urzavoge/CLionProjects/testYacc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

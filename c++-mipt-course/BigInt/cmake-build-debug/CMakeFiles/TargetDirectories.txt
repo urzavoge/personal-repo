@@ -1,0 +1,3 @@
+/home/egor/CLionProjects/BigInt/cmake-build-debug/CMakeFiles/main.cpp.dir
+/home/egor/CLionProjects/BigInt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/egor/CLionProjects/BigInt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

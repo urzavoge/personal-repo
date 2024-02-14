@@ -1,0 +1,4 @@
+/Users/urzavoge/CLionProjects/STRINGI/cmake-build-debug/CMakeFiles/main.cpp.dir
+/Users/urzavoge/CLionProjects/STRINGI/cmake-build-debug/CMakeFiles/untitled22.dir
+/Users/urzavoge/CLionProjects/STRINGI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/urzavoge/CLionProjects/STRINGI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+3	781	1695492154111167052	CMakeFiles/text_game.dir/src/npc.cpp.o	d677bc28652eb3d6
+786	1076	1695492154410446698	CMakeFiles/text_game.dir/src/items.cpp.o	af19c4c433a7d67c
+2	786	1695492154116690577	CMakeFiles/text_game.dir/src/room.cpp.o	e23a0d2333409767
+783	1162	1695492154495654871	CMakeFiles/text_game.dir/src/command.cpp.o	11971ce4b876414c
+2	842	1695492154175476118	CMakeFiles/text_game.dir/src/player.cpp.o	baeb338a577da546
+5	830	1695492154160769118	CMakeFiles/text_game.dir/src/interface.cpp.o	c1d65fffe54b9bfa
+0	816	1695492154148445279	CMakeFiles/text_game.dir/main.cpp.o	ebd531c0bca3a7b7
+1	857	1695492154190428950	CMakeFiles/text_game.dir/src/game.cpp.o	898b1783ab6eec1a
+1162	1194	1695492154529147609	text_game	9e18ac82bfd6708

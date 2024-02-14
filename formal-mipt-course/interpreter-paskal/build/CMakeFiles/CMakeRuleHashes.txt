@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a08e3de800bb8f16096c47af19466017 /Users/urzavoge/Desktop/work/unused-repos/practice-interpreter/parser.cpp
+3ba11788b8549a6b507c5867bad8c734 /Users/urzavoge/Desktop/work/unused-repos/practice-interpreter/scanner.cpp
