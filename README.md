@@ -1,4 +1,4 @@
-# my-repo
+# personal-repo
 Мой репозиторий с пет-проектами.
 
 ## c++-mipt-course
